@@ -1,0 +1,113 @@
+.upperLayer .heading{
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.7rem;
+    font-size: 1rem;
+}
+
+.election{
+   color: rgb(94, 92, 92);
+   text-decoration: underline;
+   font-weight: bolder;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-top: 1.5rem;
+}
+.upperLayer .heading p{
+    margin-left: 33rem;
+    padding-top: 0;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.botton{
+    border-radius: 35rem;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(20, 115, 205);
+    padding: 0 20px 0 20px;
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
+    font-weight: bolder;
+    font-size: 0.8rem;
+}
+
+h1{
+    font-size: 2.7rem;
+    font-weight: 900;
+    border: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.democrate, .republican, .third{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.parentContainer{
+    background-color: rgb(218, 214, 214);
+    display: flex;
+    justify-content: center;
+    height: 550px;
+}
+
+.subContainer{
+    background-color: white;
+    width: 90%;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+
+.democrating, .republicing, .thirdparting{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 0 200px;
+}
+.trump ul{
+    list-style-type: square;
+}
+.trump{
+    overflow-wrap: break-word;
+    font-size: larger;
+    padding: 0 200px;
+}
+.democrate1, .republican1, .thirdparty1, .dropout{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow-wrap: break-word;
+    font-weight: bold;
+    font-size: larger;
+    padding: 0 200px;
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 0 200px;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow-wrap: break-word;
+    font-weight: bold;
+    font-size: larger;
+    padding: 0 200px;
+    text-decoration: underline;
+    text-decoration-color: #0098fe;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 2px;
+}
+.candidate1, .candidate2, .candidate3{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.dropout2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
